@@ -15,3 +15,9 @@ Restaurant Website built by using HTML, CSS, JS and BootStrap.
 
 
 ## Screenshots
+![screencapture-file-F-Coursera-Assignments-Week4-Bootstrap4-conFusion-index-form-html-2021-08-31-22_15_03](https://user-images.githubusercontent.com/39727166/131545496-ea4a6199-360e-4085-ab5c-ec1b22cdc0fd.png)
+![screencapture-file-F-Coursera-Assignments-Week4-Bootstrap4-conFusion-aboutus-tabs-and-pills-html-2021-08-31-22_14_29](https://user-images.githubusercontent.com/39727166/131545523-341f9133-3da1-49eb-9e58-e0a1af9bfb70.png)
+![screencapture-file-F-Coursera-Assignments-Week4-Bootstrap4-conFusion-contactus-html-2021-08-31-22_15_20](https://user-images.githubusercontent.com/39727166/131545539-dd12bbcd-c18e-4835-95d5-dc78bb00b3a6.png)
+![Week3 screenshot](https://user-images.githubusercontent.com/39727166/131545562-604b396f-b644-4946-96ab-c596f7eafb31.png)
+
+
